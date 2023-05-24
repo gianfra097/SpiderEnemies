@@ -25,8 +25,8 @@ There are 3 levels, each with different enemies.
 ![Level 2(2)](https://github.com/gianfra097/SpiderEnemies/assets/82977399/01db16cb-e12f-4e11-a394-5dba26522cd9)
 
 # Level 3:
-![Level 3(2)](https://github.com/gianfra097/SpiderEnemies/assets/82977399/25c72673-4738-4d2c-8b49-9482fcdcac38)
 ![Level 3](https://github.com/gianfra097/SpiderEnemies/assets/82977399/e1babc94-3dfc-48da-801b-f948f63d8dec)
+![Level 3(2)](https://github.com/gianfra097/SpiderEnemies/assets/82977399/25c72673-4738-4d2c-8b49-9482fcdcac38)
 
 # Bonus level:
 ![Level bonus](https://github.com/gianfra097/SpiderEnemies/assets/82977399/2245cdf1-8534-4b06-8e90-f778060e349e)
