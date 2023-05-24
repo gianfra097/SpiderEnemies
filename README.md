@@ -15,6 +15,9 @@ At the end of each level you can play a bonus level to increase your score and e
 There are 3 levels, each with different enemies.
 
 Level 1:
-
 ![Level 1](https://github.com/gianfra097/SpiderEnemies/assets/82977399/3e66cefc-3020-4a47-b32a-2f8c9f5d4d2b)
 ![Level 1(2)](https://github.com/gianfra097/SpiderEnemies/assets/82977399/fb8f676e-d5a6-45c6-aeed-5e7ee497b568)
+
+Level 2:
+![Level bonus](https://github.com/gianfra097/SpiderEnemies/assets/82977399/2245cdf1-8534-4b06-8e90-f778060e349e)
+![Level bonus(2)](https://github.com/gianfra097/SpiderEnemies/assets/82977399/2943cb84-79d7-4661-94a8-fce64bd867df)
