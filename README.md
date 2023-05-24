@@ -1,7 +1,7 @@
 # Spider-Enemies
 Catch a mole with Spiderman characters
 
-Spider Enemies is a pixel art game. You have 60 seconds to hit as many enemies as possible and increase your score.
+Spider-Enemies is a pixel art game. You have 60 seconds to hit as many enemies as possible and increase your score.
 
 There are 6 enemies and 3 allies, each of them has its own rating.
 - Bonus enemies: +200 points
