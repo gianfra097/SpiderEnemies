@@ -16,4 +16,4 @@ There are 3 levels, each with different enemies.
 
 Level 1:
 
-![Logo](https://github.com/gianfra097/SpiderEnemies/issues/1#issue-1723652533)
+![Level 1](https://github.com/gianfra097/SpiderEnemies/assets/82977399/3e66cefc-3020-4a47-b32a-2f8c9f5d4d2b)
